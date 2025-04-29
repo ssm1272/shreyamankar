@@ -1,4 +1,3 @@
-# Mankar patil
-shreya mankar
-k.b.joshi
+# Shreya Mankar
+I am bca student
 
